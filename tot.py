@@ -6,21 +6,21 @@ st.set_page_config(page_title="简易音乐播放器", page_icon="🎵")
 # 音乐数据（包含封面、歌名、歌手、时长、音频链接）
 music_list = [
     {
-        "cover": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg", # 封面URL
+        "cover": "https://p1.music.126.net/M8P1hkIMBeN2JnoCqVoClQ==/109951163333239429.jpg?param=200y200", # 封面URL
         "title": "Bohemian Rhapsody",
         "singer": "Queen",
         "duration": "5:55",
         "audio_url": "https://music.163.com/song/media/outer/url?id=5257138.mp3"
     },
     {
-        "cover": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg", # 可替换为其他歌曲封面
+        "cover": "https://p1.music.126.net/2rux5LnJey75tm9Md-9D-Q==/2890616070443534.jpg?param=200y200", # 可替换为其他歌曲封面
         "title": "两 难",
         "singer": "歌手名",
         "duration": "2:50",
         "audio_url": "https://music.163.com/song/media/outer/url?id=2163210456.mp3"
     },
     {
-        "cover": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+        "cover": "https://p1.music.126.net/c-u3kOlkVTUf4JdeDHDdEw==/109951163291871252.jpg?param=200y200",
         "title": "如果呢",
         "singer": "歌手名",
         "duration": "3:45",
